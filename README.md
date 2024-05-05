@@ -4,6 +4,7 @@ Data analysis of New York City housing market including comparision of square fo
 # Project Instalation:
 
 pip install --upgrade pip
+
 pip install -r requirements.txt
 
 **Dataset from:** https://www.kaggle.com/datasets/nelgiriyewithana/new-york-housing-market
