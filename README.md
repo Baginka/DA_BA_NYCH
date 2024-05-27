@@ -9,11 +9,11 @@
 
 
 <a name="about"></a>
-### About project
-Data analysis of New York City housing market including comparision of square footage, price, type of the house, number of bedrooms and bathrooms. 
+### About project:
+The New York City (NYC) housing market is one of the most dynamic and complex real estate markets in the world. With its diverse neighborhoods and a wide range of property types, understanding the intricacies of this market is essential for buyers, sellers and investors. This project aims to provide a comprehensive analysis of the NYC housing market by examining key factors such as square footage, price, property type, and the number of bedrooms and bathrooms.
 
 <a name="project"></a>
-### Project Instalation
+### Project Instalation:
 
 1. Open your terminal and navigate to the directory where you want to clone the repository. Then run the following command:<br />
 **<p align="center">git clone https://github.com/Baginka/DA_BA_NYCH.git</p>**
@@ -25,9 +25,9 @@ Data analysis of New York City housing market including comparision of square fo
 **<p align="center">pip install -r requirements.txt</p>**
 
 <a name="data"></a>
-### Dataset
+### Dataset:
 https://www.kaggle.com/datasets/nelgiriyewithana/new-york-housing-market
 
 <a name="tech"></a>
-### Techstack
+### Techstack:
 Jupyter Notebook, Python, Pandas, Matplotlib.
