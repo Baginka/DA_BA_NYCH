@@ -1,4 +1,4 @@
-# Data Analysis of New York City Housing Market
+# <p align="center">Data Analysis of New York City Housing Market</p>
 <p align="center"><img src="Images/istockphoto-1406960186-612x612.jpg"></p>
 
 ### Navigate to:
