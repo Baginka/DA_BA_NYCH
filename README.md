@@ -1,12 +1,13 @@
 # Data Analysis of New York City Housing Market
 
 ### Navigate to:
-  * [About project](About_project)
+  * [About project](#about)
   * [Project Instalation](Project_instalation)
   * [Dataset](Dataset)
   * [Techstack](Techstack)
 
 
+<a name="about"></a>
 ### About project
 Data analysis of New York City housing market including comparision of square footage, price, type of the house, number of bedrooms and bathrooms. Some 
 
