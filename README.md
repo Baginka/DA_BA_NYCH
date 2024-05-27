@@ -15,7 +15,7 @@ The New York City (NYC) housing market is one of the most dynamic and complex re
 <a name="project"></a><br />
 ### Project Instalation:
 
-1. Open your terminal and navigate to the directory where you want to clone the repository, but first of all you must create and run virtual environment:<br />
+1. Open your terminal and navigate to the directory where you want to clone the repository, but first of all you should create and run virtual environment:<br />
 **<p align="center">python -m venv venv</p>**
 **<p align="center">source venv/bin/activate</p>**
 
