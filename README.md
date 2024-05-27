@@ -1,12 +1,23 @@
-# Data Analysis of New York City housing market
-Data analysis of New York City housing market including comparision of square footage, price, type of the house, number of bedrooms and bathrooms.
+# Data Analysis of New York City Housing Market
 
-# Project Instalation:
+### Navigate to:
+  * [About project](url)
+  * [Project Instalation](url)
+  * [Dataset](url)
+  * [Techstack](url)
 
+
+### [About project](url)
+Data analysis of New York City housing market including comparision of square footage, price, type of the house, number of bedrooms and bathrooms. Some 
+
+
+### [Project Instalation](url)
 pip install --upgrade pip
 
 pip install -r requirements.txt
 
-**Dataset from:** https://www.kaggle.com/datasets/nelgiriyewithana/new-york-housing-market
+### [Dataset](url) 
+https://www.kaggle.com/datasets/nelgiriyewithana/new-york-housing-market
 
-**Techstack:** Jupyter Notebook.
+### [Techstack](url)
+Jupyter Notebook, Python, Pandas, Matplotlib.
