@@ -1,10 +1,10 @@
 # Data Analysis of New York City Housing Market
 
 ### Navigate to:
-  * [About project](urla)
-  * [Project Instalation](urlb)
-  * [Dataset](urlc)
-  * [Techstack](urld)
+  * [About project](About_project)
+  * [Project Instalation](Project_instalation)
+  * [Dataset](Dataset)
+  * [Techstack](Techstack)
 
 
 ### About project
