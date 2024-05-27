@@ -15,16 +15,17 @@ The New York City (NYC) housing market is one of the most dynamic and complex re
 <a name="project"></a><br />
 ### Project Instalation:
 
-1. Open your terminal and navigate to the directory where you want to clone the repository, but <span style="color: red;">first of all you must create and run virtual environment:</span>
+1. Open your terminal and navigate to the directory where you want to clone the repository, but first of all you must create and run virtual environment:<br />
 **<p align="center">python -m venv venv</p>**
 **<p align="center">source venv/bin/activate</p>**
-3. In your terminal run the following command:<br />
+
+2. Then in your terminal run the following command:<br />
 **<p align="center">git clone https://github.com/Baginka/DA_BA_NYCH.git</p>**
 
-4. After cloning, navigate into the repository directory:<br />
+3. After cloning, navigate into the repository directory:<br />
 **<p align="center">cd DA_BA_NYCH</p>**
 
-5. Install in terminal requirements with command below and upgrade pip:<br />
+4. Install in terminal requirements with command below and upgrade pip:<br />
 **<p align="center">pip install -r requirements.txt</p>**
 **<p align="center">pip install --upgrade pip</p>**
 
