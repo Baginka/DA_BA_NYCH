@@ -1,8 +1,8 @@
 # <p align="center">Data Analysis of New York City Housing Market</p>
-<p align="center"><img src="Images/istockphoto-1406960186-612x612.jpg"></p><br />
-<a name="menu"></a
+<p align="center"><img src="Images/istockphoto-1406960186-612x612.jpg"></p><br /><a name="menu"></a>
                
 ### Navigate to:
+
   * [About project](#about)
   * [Project Instalation](#project)
   * [Dataset](#data)
