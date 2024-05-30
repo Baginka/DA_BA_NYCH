@@ -39,4 +39,4 @@ https://www.kaggle.com/datasets/nelgiriyewithana/new-york-housing-market
 ### Techstack:
 Jupyter Notebook, Python, Pandas, Matplotlib.
 
-[To menu](#menu)
+<p align="center"> [To menu](#menu) </p>
