@@ -37,4 +37,4 @@ https://www.kaggle.com/datasets/nelgiriyewithana/new-york-housing-market
 
 <a name="tech"></a><br />
 ### Techstack:
-Jupyter Notebook, Python, Pandas, Matplotlib.
+Jupyter Notebook, Python, Pandas, Matplotlib, Numpy, Statsmodels, Folium.
